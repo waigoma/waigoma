@@ -1,6 +1,7 @@
 ### Hi there 👋  
 [![trophy](https://github-profile-trophy.vercel.app/?username=waigoma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)  
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=waigoma)](https://github.com/anuraghazra/github-readme-stats)
+  
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=waigoma&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=waigoma&layout=compact&langs_count=8&hide=makefile,batchfile)](https://github.com/anuraghazra/github-readme-stats)  
 
 <!--
