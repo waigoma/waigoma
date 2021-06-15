@@ -4,7 +4,7 @@
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=waigoma&count_private=true&theme=react)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=waigoma&count_private=true&layout=compact&theme=react&langs_count=8&hide=makefile,batchfile)](https://github.com/anuraghazra/github-readme-stats)  
 
-[![Visitor Count](https://profile-counter.glitch.me/{YOUR USER}/count.svg)
+[![Visitor Count](https://profile-counter.glitch.me/{waigoma}/count.svg)
 
 <!--
 **waigoma/waigoma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
