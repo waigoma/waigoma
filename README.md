@@ -5,6 +5,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=waigoma&count_private=true&layout=compact&theme=react&langs_count=8&hide=makefile,batchfile)](https://github.com/anuraghazra/github-readme-stats)  
 
 [![Visits Badge](https://badges.pufler.dev/visits/waigoma/waigoma)](https://badges.pufler.dev)
+[![Years Badge](https://badges.pufler.dev/years/waigoma)](https://badges.pufler.dev)
 <!-- ![Visitor Count](https://profile-counter.glitch.me/{waigoma}/count.svg) -->
 
 <!--
