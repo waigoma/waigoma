@@ -6,6 +6,7 @@
 
 [![Visits Badge](https://badges.pufler.dev/visits/waigoma/waigoma)](https://badges.pufler.dev)
 [![Years Badge](https://badges.pufler.dev/years/waigoma)](https://badges.pufler.dev)
+[![wakatime](https://wakatime.com/badge/user/4689e803-5086-4694-b8e5-e22e67d29f6e.svg)](https://wakatime.com/@4689e803-5086-4694-b8e5-e22e67d29f6e)
 <!-- ![Visitor Count](https://profile-counter.glitch.me/{waigoma}/count.svg) -->
 
 <!--
