@@ -4,6 +4,7 @@
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=waigoma&count_private=true&theme=react)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=waigoma&count_private=true&layout=compact&theme=react&langs_count=8&hide=makefile,batchfile,HLSL,Mathematica)](https://github.com/anuraghazra/github-readme-stats)  
 
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=jwenjian.visitor-badge)
 [![Visits Badge](https://badges.pufler.dev/visits/waigoma/waigoma)](https://badges.pufler.dev)
 [![Years Badge](https://badges.pufler.dev/years/waigoma)](https://badges.pufler.dev)
 [![wakatime](https://wakatime.com/badge/user/4689e803-5086-4694-b8e5-e22e67d29f6e.svg)](https://wakatime.com/@4689e803-5086-4694-b8e5-e22e67d29f6e)
