@@ -5,10 +5,11 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=waigoma&count_private=true&layout=compact&theme=react&langs_count=8&hide=makefile,batchfile,HLSL,Mathematica)](https://github.com/anuraghazra/github-readme-stats)  
 
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fwaigoma&label=visitors&countColor=%2337d67a&style=flat)
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=waigoma.waigoma)
+[![wakatime](https://wakatime.com/badge/user/4689e803-5086-4694-b8e5-e22e67d29f6e.svg)](https://wakatime.com/@4689e803-5086-4694-b8e5-e22e67d29f6e)
+
 [![Visits Badge](https://badges.pufler.dev/visits/waigoma/waigoma)](https://badges.pufler.dev)
 [![Years Badge](https://badges.pufler.dev/years/waigoma)](https://badges.pufler.dev)
-[![wakatime](https://wakatime.com/badge/user/4689e803-5086-4694-b8e5-e22e67d29f6e.svg)](https://wakatime.com/@4689e803-5086-4694-b8e5-e22e67d29f6e)
+<!-- ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=waigoma.waigoma) -->
 <!-- ![Visitor Count](https://profile-counter.glitch.me/{waigoma}/count.svg) -->
 
 <!--
