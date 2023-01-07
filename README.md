@@ -3,10 +3,10 @@
   
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=waigoma&count_private=true&theme=react)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=waigoma&count_private=true&layout=compact&theme=react&langs_count=8&hide=makefile,batchfile,HLSL,Mathematica)](https://github.com/anuraghazra/github-readme-stats)  
-歴順
+歴順:  
 Java > Kotlin > Python >= C/C++ > C# > Go
 
-できる順
+できる順:  
 Java > Kotlin > C# > Go > C/C++ >= Python  
 
 [![Visits Badge](https://badges.strrl.dev/visits/waigoma/waigoma)](https://badges.strrl.dev)
