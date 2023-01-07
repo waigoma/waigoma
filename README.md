@@ -7,7 +7,7 @@
 Java > Kotlin > Python >= C/C++ > C# > Go
 
 できる順:  
-Java > Kotlin > C# > Go > C/C++ >= Python  
+Java >= Kotlin >= C# > Go > C/C++ >= Python  
 
 [![Visits Badge](https://badges.strrl.dev/visits/waigoma/waigoma)](https://badges.strrl.dev)
 [![Years Badge](https://badges.strrl.dev/years/waigoma)](https://badges.strrl.dev)
