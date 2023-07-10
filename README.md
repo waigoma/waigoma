@@ -11,9 +11,7 @@ Java (2019Q1) > Kotlin (2020Q1) > Python (2020Q2) >= C/C++ (2020Q4) > C# (2021Q1
 Java >= Kotlin >= C# > Go > Python > C/C++
 
 好き順:
-1. Kotlin
-2. Java
-3. C#
+Kotlin >> Java >= C# > Go >> Python >>> C/C++
 
 [![Visits Badge](https://badges.strrl.dev/visits/waigoma/waigoma)](https://badges.strrl.dev)
 [![Years Badge](https://badges.strrl.dev/years/waigoma)](https://badges.strrl.dev)
