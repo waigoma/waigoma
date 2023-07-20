@@ -4,15 +4,23 @@
 [![Anurag's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=waigoma&count_private=true&theme=react)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=waigoma&count_private=true&layout=compact&theme=react&langs_count=8&hide=makefile,batchfile,HLSL,Mathematica)](https://github.com/anuraghazra/github-readme-stats)  
 
-歴順:  
-Java (2019Q1) > Kotlin (2020Q1) > Python (2020Q2) >= C/C++ (2020Q4) > C# (2021Q1) > Go (2022Q1)
+
+## 好きな言語！
+好き順:  
+Kotlin >> Java >= C# > Go >> Python >>> C/C++
 
 できる順:  
 Java >= Kotlin >= C# > Go > Python > C/C++
 
-好き順:
-Kotlin >> Java >= C# > Go >> Python >>> C/C++
+歴順:  
+Java (2019Q1) > Kotlin (2020Q1) > Python (2020Q2) >= C/C++ (2020Q4) > C# (2021Q1) > Go (2022Q1)
 
+
+## 外部リンク
+- [Qiita](https://qiita.com/waigoma)
+
+
+## Badges
 [![Visits Badge](https://badges.strrl.dev/visits/waigoma/waigoma)](https://badges.strrl.dev)
 [![Years Badge](https://badges.strrl.dev/years/waigoma)](https://badges.strrl.dev)
 [![wakatime](https://wakatime.com/badge/user/4689e803-5086-4694-b8e5-e22e67d29f6e.svg)](https://wakatime.com/@4689e803-5086-4694-b8e5-e22e67d29f6e)
