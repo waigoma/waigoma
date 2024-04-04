@@ -7,14 +7,14 @@
 
 ## 好きな言語！
 好き順:  
-Kotlin >> Java >= C# > Go >> Python > C/C++
+Kotlin >> Java >= C# > Go >> Python == PHP > C/C++
 
 できる順:  
-Java >= Kotlin >= C# > Go > Python > C/C++  
+Java >= Kotlin >= C# > Go >= Python > PHP > C/C++  
 HTML, CSS, JS は少々。
 
 歴順:  
-Java (2019Q1) > Kotlin (2020Q1) > Python (2020Q2) >= C/C++ (2020Q4) > C# (2021Q1) > Go (2022Q1)  
+Java (2019Q1) > Kotlin (2020Q1) > Python (2020Q2) >= C/C++ (2020Q4) > C# (2021Q1) > Go (2022Q1) > PHP (2024Q2)  
 
 
 ## 外部リンク
