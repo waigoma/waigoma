@@ -7,7 +7,7 @@
 
 ## 好きな言語！
 好き順:  
-Kotlin >> Java >= C# > Go >= Python == PHP > C/C++  
+Kotlin >> Java >= C# >> PHP >= Go >= Python > C/C++  
 型名とか変数宣言必須とか割と固い言語のほうが好きな印象ある。
 
 できる順:  
